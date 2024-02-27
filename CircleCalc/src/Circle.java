@@ -22,5 +22,4 @@ public class Circle {
 		 Scanner in = new Scanner(System.in);
 		 Circle c = new Circle(in.nextFloat());
 	 }}
-//sain baina uu hh
-// 19:25
+//sain baina uu hh 19:30
