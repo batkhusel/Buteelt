@@ -21,4 +21,5 @@ public class Circle {
 		 
 		 Scanner in = new Scanner(System.in);
 		 Circle c = new Circle(in.nextFloat());
-	 }} //fg
+	 }}
+//sain baina uu hh
