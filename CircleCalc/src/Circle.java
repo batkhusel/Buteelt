@@ -22,4 +22,4 @@ public class Circle {
 		 Scanner in = new Scanner(System.in);
 		 Circle c = new Circle(in.nextFloat());
 	 }}
-//sain baina uu hh alkjdncv ,dskjfnalksv jda yagad bolku bainaaaaaaaaaaaaaaaa bruhh  nice
+//sain baina uu hh alkjdncv ,dskjfnalksv jda yagad bolku bainaaaaaaaaaaaaaaaa bruhh  niceadfafds
