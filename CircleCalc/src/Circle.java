@@ -23,3 +23,4 @@ public class Circle {
 		 Circle c = new Circle(in.nextFloat());
 	 }}
 //sain baina uu hh
+// 19:25
